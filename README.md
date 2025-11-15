@@ -3,3 +3,6 @@ OSCify is a small Python program that lets you control Spotify Desktop on Window
 It supports play/pause, next/previous track, and volume of the spotify ddesktop app.
 
 ### VRChat Setup
+
+
+VRChat menu icons provided by [Flaticon](https://www.flaticon.com)
