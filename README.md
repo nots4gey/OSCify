@@ -15,11 +15,12 @@ OSCify is a small Python program that lets you control Spotify Desktop on Window
 | previousTrack  | Bool  | Button  |
 | pausePlay  | Bool  | Button  |
 | spotVolume  | Float  | Radial Puppet  |
-<br />
+  <br />
 Parameters can be easily added using [Avatars 3.0 Manager](https://github.com/VRLabs/Avatars-3.0-Manager) <br />
-<br />
-
+  <br />
+  <br />
 ![ ](https://github.com/nots4gey/OSCify/blob/3cfc0fb924bfa54ca630f189735cc7aac02041b5/AvatarManager3.0.png)
-<br />
-<br />
+  <br />
+  <br />
+  <br />
 VRChat menu icons provided by [Flaticon](https://www.flaticon.com)
