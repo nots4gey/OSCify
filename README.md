@@ -20,7 +20,7 @@ Parameters can be easily added using [Avatars 3.0 Manager](https://github.com/Lu
   
 ![ ](https://github.com/nots4gey/OSCify/blob/bcbc5badf7a747ad05e0268e817d8297fee5d048/AvatarManager3.0.png)
   <br />
-  <br />
+   <br />
   <br />
   
 VRChat menu icons provided by [Flaticon](https://www.flaticon.com)
